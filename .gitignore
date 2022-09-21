@@ -1,0 +1,14 @@
+# .gitignore
+
+# Mac system file
+.DS_Store
+
+# dependences
+/node_modules/
+
+# build
+/dist/
+
+# Editor related files
+.idea
+.vscode
