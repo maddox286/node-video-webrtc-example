@@ -1,4 +1,4 @@
-const { WebRTC } = require('./lib/WebRTC/lib/terminal/WebRTC-Terminal')
+const { WebRTC } = require('./lib/WebRTC/index')
 
 const { WebSocketServer } = require('./lib/WebSocket')
 
